@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-ui-prose-img-base-url",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/image": "2.2.0",
+    "@nuxt/ui": "4.12.0",
+    "nuxt": "4.6.2"
+  }
+}
